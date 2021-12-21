@@ -46,10 +46,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: ' ',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Space Pool Logo',
+          src: 'img/spacepool.png',
         },
         items: [
           {
@@ -60,8 +60,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://pool.space/discord',
+            label: 'Discord',
             position: 'right',
           },
         ],
