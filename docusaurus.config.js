@@ -56,9 +56,15 @@ const config = {
             type: 'doc',
             docId: 'quick-start',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Get Started',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          //{to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://pool.space/',
+            label: 'Farm Website',
+            position: 'right',
+          },
+          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://pool.space/discord',
             label: 'Discord',
@@ -73,7 +79,7 @@ const config = {
             items: [
               {
                 label: 'Quick Start Guide',
-                href: '/quick-start',
+                href: '/',
               },
               {
                 label: 'Pool Home Page',
