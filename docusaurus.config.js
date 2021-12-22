@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Space Pool Wiki',
+  tagline: 'Chia farming winnings with the official pooling protocol',
+  url: 'https://wiki.pool.space',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'spacepool', // Usually your GitHub org/user name.
+  projectName: 'wiki', // Usually your repo name.
 
   presets: [
     [
@@ -25,7 +25,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: false
         /*{
@@ -54,7 +54,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'quickstart',
+            docId: 'quick-start',
             position: 'left',
             label: 'Tutorial',
           },
@@ -72,13 +72,17 @@ const config = {
           {
             items: [
               {
+                label: 'Quick Start Guide',
+                href: '/quick-start',
+              },
+              {
                 label: 'Pool Home Page',
                 href: 'https://pool.space',
               },
               {
                 label: 'Discord',
                 href: 'https://pool.space/discord',
-              },
+              }
             
             ],
           },
