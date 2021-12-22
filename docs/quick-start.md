@@ -38,7 +38,7 @@ Now that you have a synced wallet you can practice receiving some Chia. Request 
 
 It will look something like `xch1am8u5gy9yn3tsn6wzyc0npgfjz97ar4zv7x2pul8vt2x3klfvfwqgtgus2`.
 
-This faucet will send **mojos**, a very *very* small fraction of a Chia. Once the transaction is processed you should see a small amount of chia in your wallet balance. 
+This faucet will send **mojos**, very *very* small fractions of a Chia. Once the transaction is processed you should see a small amount of chia in your wallet balance. 
 
 ## Joining Space Pool
 

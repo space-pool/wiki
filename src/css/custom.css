@@ -58,7 +58,7 @@ html[data-theme='light'] .navbar__link{
 }
 .navbar__link:hover{
   color:#03b000 !important; 
-  /*was being overrided on light mode, not sure why so !important*/
+  /*was being overridden on light mode, not sure why so !important*/
 }
 
 
