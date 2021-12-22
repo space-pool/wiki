@@ -5,7 +5,9 @@ slug: /
 
 # Chia Farming Quick Start Guide
 
-We're going to start from the complete beginning and by the end of this guide you will be farming Chia!
+We're going to start from the complete beginning and by the end of this guide you will be farming Chia! 
+
+If you're not new and just looking for our pool URL, skip to [Joining Space Pool](/#joining-space-pool).
 
 ## Chia client installation
 
