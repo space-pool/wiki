@@ -92,3 +92,9 @@ footer a {
   .footer__link-item, .footer__copyright{
     color: #03b000 !important;
   }
+
+
+.navbar--fixed-top {
+  background-color: black;
+  border-bottom: 1px solid #ffffff80;
+}
