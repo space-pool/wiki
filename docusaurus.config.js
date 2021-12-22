@@ -61,7 +61,7 @@ const config = {
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://pool.space/',
-            label: 'Farm Website',
+            label: 'Pool Home Page',
             position: 'right',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
