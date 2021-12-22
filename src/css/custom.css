@@ -52,6 +52,16 @@ html[data-theme='dark'] .footer__link-item{
   color: white;
 }
 
+
+html[data-theme='light'] .navbar__link{
+  color: white;
+}
+.navbar__link:hover{
+  color:#03b000 !important; 
+  /*was being overrided on light mode, not sure why so !important*/
+}
+
+
 .footer{
   background-color: unset;
 }
