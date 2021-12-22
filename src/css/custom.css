@@ -54,9 +54,41 @@ html[data-theme='dark'] .footer__link-item{
 
 .footer{
   background-color: unset;
-  
 }
 
 .footer__link-item{
   color:black;
 }
+
+
+
+/* to get footer to go horizontal */
+.footer__items{ 
+  margin: 0 auto;
+  list-style: none;
+}
+.footer__item{
+  margin: 15px;
+  display: inline;
+}
+
+.footer__links {
+  justify-content: center;
+}
+  
+.footer__link-item{
+  text-align: center;
+}
+.footer__col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+footer a {
+  font-size: 18px;
+  }
+
+  .footer__link-item, .footer__copyright{
+    color: #03b000 !important;
+  }
