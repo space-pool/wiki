@@ -1,8 +1,3 @@
----
-sidebar_position: 0
-slug: /
----
-
 # Developer APIs Guide
 Are you a developer looking to integrate your script, app or website with Space Pool data? Good news, Space Pool has public developer REST APIs specifically built for this purpose.
 The developer APIs allow authorized 3rd party developers to officially access both pool statistics as well as individual farmer statistics programmatically.
