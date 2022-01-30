@@ -73,7 +73,7 @@ Because Creating the NFT is a transaction on the blockchain it may take a moment
 New to plotting? **Plotting** is a CPU and disk intensive process to create plot files. Each finished plot increases your XCH reward when farming. More plots = larger farm. 
 
 Once you have a plot NFT you can now create poolable plots. From the **plots** tab select **add a plot**. 
-1. Choose a plotter - We recommend **MadMAx plotter**.
+1. Choose a plotter - We recommend **madMAx plotter**.
 1. Plot size - K32.
 1. Number of Plots - As many as you can fit! Once created, each plot takes 108.9GB (101.4GiB). You can start with a few to test.
 1. Temporary Directory - Create a folder to hold a bunch of random files. **The disk will have a lot of writes** so we suggest using a dedicated SSD for a large number of plots. 
