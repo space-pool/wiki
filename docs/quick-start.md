@@ -105,6 +105,6 @@ That's pretty much everything to getting started!
 
 Having issues? Reach out on [Space Pool's Discord Community](https://pool.space/discord).
 
-Need a copy of the chia block chain db because yours became corrupt, you lost sync, or you just have some other reason to start fresh, but don't want to start over from scratch and sync for days. Try our community members https://chia.sponix.net to download a copy of the block chain that is within 12 hours to make the process take hours instead of days.
+Need a copy of the chia block chain db because yours became corrupt, you lost sync, or you just have some other reason to start fresh, but don't want to start over from scratch and sync for days. SponiX one of our community members is hosting https://chia.sponix.net to download a copy of the block chain that is within 12 hours to make the process take hours instead of days.
 
 **Disclaimer Note: this is an unofficial copy of the blockchain provided by a community member, not officially endorsed by Space Pool or the Chia team
