@@ -23,7 +23,7 @@ The following steps will guide you through the process
 
 Go to your farmer and close the chia app, go to your config.yaml, and replace in the 2 places you will find the **xch_target_address** with the new address 
 you copied from the cold wallet and start your chia app. An easier and secure way is just go to the farm tab and change both addresses in 
-the Farming rewards (Click in the 3 dots and click in Manage Farming Rewards)
+the Farming rewards (click on the 3 dots and click in "Manage Farming Rewards")
 
 ## Pool rewards
 
@@ -36,4 +36,5 @@ If in the future you want to send some of your xchs to a friend or an exchange, 
 from https://www.chia.net/download/ and install it in your computer (It should not be installed in the same computer you are farming chia).
 You will need to import the 24 words in the the light wallet and you will need to connect the computer to internet.
 It should sync pretty quick and once is done you can send your xchs and disconnect the computer from internet again and uninstall 
-the light wallet if you will not be sending xchs in a regular basis.
+the light wallet if you will not be sending xch in a regular basis. After the cold wallet is used a single time it is good practice 
+to expect it is no longer cold and would be wise to switch to a new cold wallet.
