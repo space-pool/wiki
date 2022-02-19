@@ -1,8 +1,3 @@
----
-sidebar_position: 0
-slug: /
----
-
 # Cold wallet
 
 A cold wallet is very useful when you want to protect your precious xchs.
